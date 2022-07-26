@@ -2,7 +2,7 @@
 
 **Disclaimer**: all scripts listed below are only for testing/pentesting purposes.
 
-* Original Readme with tons of useful information = [/Docs/original-readme.md](/)
+* Original Readme with tons of useful information = [/Docs/original-readme.md](/Docs/original-readme.md)
 * Dump of all script names that I've found while webbrowsing - [/Docs/raw-shell-list.md]()
 
 
